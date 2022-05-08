@@ -19,7 +19,7 @@ First of all, I love numbers and analyzing and managing data. I’m young with a
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.starburst.io/wp-content/uploads/2021/04/Tableau_Logo_transparent.png" width="90" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/698/1010/png-transparent-alteryx-computer-software-service-information-business-intelligence-others-miscellaneous-blue-company-thumbnail.png" width="90" height="36" alt="Tableau" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/698/1010/png-transparent-alteryx-computer-software-service-information-business-intelligence-others-miscellaneous-blue-company-thumbnail.png" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 ### Socials

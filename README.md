@@ -3,12 +3,12 @@ Hi 👋 My name is Carlos Pimentel
 
 First of all, I love numbers and analyzing and managing data. I’m young with a desire to learn and move into IT in order to use data analytics tools and languages that I have had contact with like SQL, R and Python. I’m not a born programmer, but with the certificates & bootcamps and experience I will get there. I believe that with my willingness and power to learn, where I can provide an added value to your company and team.
 
-* 🌍  I'm based in Poland
+* 🌍  I'm based in Denmark/Poland
 * 🖥️  See my portfolio at [Github](http://github.com/carlosbpi)
 * 🚀  I'm currently working as Business Data Analyst & BI Developer Freelance
 * 🧠  I'm learning Big Data / Database Tools & Systems / Data Engineering Concepts
 * 🤝  I'm open to collaborating - Business Analysis, Data Analytics, Data Engineering, Big Data.
-* ⚡  I'm creative and an born entrepreneur
+* ⚡  I'm creative and an born entrepreneur (helPPu Tech)
 
 ### Skills
 

@@ -5,7 +5,7 @@ First of all, I love numbers and analyzing and managing data. I’m young with a
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [Github](http://github.com/carlosbpi)
-* 🚀  I'm currently working on [JP MORGAN CHASE](http://www.jpmorganchase.com/)
+* 🚀  I'm currently working as Business Data Analyst & BI Developer Freelance
 * 🧠  I'm learning Big Data / Database Tools & Systems / Data Engineering Concepts
 * 🤝  I'm open to collaborating - Business Analysis, Data Analytics, Data Engineering, Big Data.
 * ⚡  I'm creative and an born entrepreneur
